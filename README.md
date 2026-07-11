@@ -18,6 +18,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3024-type-of-triangle/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -33,4 +34,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 <!---LeetCode Topics End-->
