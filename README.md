@@ -19,6 +19,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0027-remove-element/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3024-type-of-triangle/) | Easy |
@@ -42,5 +43,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
