@@ -10,6 +10,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [3894-traffic-signal-color](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -38,4 +39,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
