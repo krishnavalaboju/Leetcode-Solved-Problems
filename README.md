@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0027-remove-element/) | Easy |
+| [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3024-type-of-triangle/) | Easy |
@@ -32,14 +33,17 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3024-type-of-triangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -59,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0089-gray-code/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
