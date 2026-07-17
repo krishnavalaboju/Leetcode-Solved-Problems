@@ -9,6 +9,7 @@
 | [0089-gray-code](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0089-gray-code/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3024-type-of-triangle/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3894-traffic-signal-color](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 ## String
@@ -30,6 +31,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3024-type-of-triangle/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -40,16 +42,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,5 +76,14 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
