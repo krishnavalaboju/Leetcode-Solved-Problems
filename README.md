@@ -9,6 +9,7 @@
 | [0089-gray-code](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0089-gray-code/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3024-type-of-triangle/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3894-traffic-signal-color](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -67,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
