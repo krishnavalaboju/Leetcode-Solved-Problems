@@ -89,4 +89,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
