@@ -16,6 +16,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [3894-traffic-signal-color](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3894-traffic-signal-color/) | Easy |
