@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0007-reverse-integer/) | Medium |
 | [0067-add-binary](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0089-gray-code](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0089-gray-code/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -85,6 +86,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0069-sqrtx/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
