@@ -20,6 +20,7 @@
 | [0058-length-of-last-word](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0389-find-the-difference](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [3894-traffic-signal-color](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -41,11 +42,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
+| [0389-find-the-difference](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3024-type-of-triangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
+| [0389-find-the-difference](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Counting
@@ -69,6 +72,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0089-gray-code/) | Medium |
+| [0389-find-the-difference](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0389-find-the-difference/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
