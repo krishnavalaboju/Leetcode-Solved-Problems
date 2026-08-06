@@ -32,6 +32,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0027-remove-element/) | Easy |
 | [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -42,12 +43,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3024-type-of-triangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
