@@ -33,6 +33,7 @@
 | [0027-remove-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0027-remove-element/) | Easy |
 | [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -51,6 +52,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -111,4 +113,8 @@
 | [0183-customers-who-never-order](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0197-rising-temperature/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
