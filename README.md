@@ -78,6 +78,7 @@
 | [0067-add-binary](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0089-gray-code/) | Medium |
 | [0190-reverse-bits](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0389-find-the-difference/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
