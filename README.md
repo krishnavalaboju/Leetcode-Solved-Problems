@@ -147,4 +147,12 @@
 | [0101-symmetric-tree](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
