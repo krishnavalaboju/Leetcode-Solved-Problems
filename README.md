@@ -115,6 +115,7 @@
 | [0183-customers-who-never-order](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/krishnavalaboju/Leetcode-Solved-Problems/tree/main/0577-employee-bonus/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
